@@ -1,4 +1,4 @@
-# DevOps Lab
+**DevOps Lab**
 
 Учебный проект для изучения основ DevOps, Git и GitHub.
 
