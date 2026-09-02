@@ -5,10 +5,7 @@
 ## Автор
 Maria Milkina
 Email: mariami13579@gmail.com
+tg: @mariamilkina
 
 ## План изучения DevOps
-- Git и GitHub
-- CI/CD
-- Docker
-- Linux
-- Основы автоматизации
+Хочу лучше разобраться в современных IT-инструментах, DevOps, облаках и AI и понять, как всё это используется при создании реальных цифровых продуктов
